@@ -1,0 +1,425 @@
+{
+ "attestation": "Every story here happened, or was first reported, on Friday 20 November 2026. Disputed claims are attributed, not stated as fact.",
+ "box_items": [
+  "the Shenzhen trilateral summit (Thu)",
+  "APEC's Shenzhen Declaration, adopted late (Thu)",
+  "the ICJ's Myanmar genocide ruling (Thu)",
+  "Anthropic's $83 IPO pricing - the debut itself (Thu)",
+  "the Senate's 51-48 Iran war-powers vote (Thu)",
+  "the Van Gogh record, $190.4m at Sotheby's (Thu)",
+  "the EU's proposed €45bn loan for Ukraine (Thu)",
+  "GTA VI's midnight unlock (Thu)",
+  "Fiji's El Niño disaster declaration (Thu)",
+  "ex-PM Han Duck-soo's overturned conviction (Thu)",
+  "the third strike on the Crimean Bridge (Thu)",
+  "the Houthi strike on Riyadh's PIF tower (Thu)",
+  "Voyager 1's one-light-day crossing (Wed)"
+ ],
+ "box_title": "LEFT ON THE CUTTING-ROOM FLOOR - HELD BACK ON DATE DISCIPLINE, ALL FIRST REPORTED THURSDAY OR EARLIER",
+ "census_line": "30 stories from a single turn of the planet",
+ "date_line": "20 NOVEMBER 2026",
+ "kicker_right": "FRIDAY · 30 STORIES · ONE PAGE",
+ "legs": [
+  {
+   "leg": 1,
+   "title": "LEG ONE · FIRST LIGHT - ASIA & THE PACIFIC"
+  },
+  {
+   "leg": 2,
+   "title": "LEG TWO · MIDDAY - THE MIDDLE EAST & EUROPE"
+  },
+  {
+   "leg": 3,
+   "title": "LEG THREE · DUSK - THE AMERICAS"
+  }
+ ],
+ "region_line": "OCEANIA 6 · ASIA-PACIFIC 9 · MIDEAST 3 · EUROPE 6 · AMERICAS 6",
+ "sources_line": "Sources: Reuters · AFP · BBC News · ABC News · NZ Herald · RNZ Pacific · IMD · PAGASA · Yonhap · Kyiv Independent · Maeil Business Newspaper · Seoul Economic Daily · Indianapolis Star",
+ "stats": [
+  {
+   "cap": "evacuated ahead of Cyclone Akvan",
+   "num": "300,000+"
+  },
+  {
+   "cap": "Anthropic's first close, +17%",
+   "num": "$97.17"
+  },
+  {
+   "cap": "GTA VI's estimated first-day sales",
+   "num": "$2.36bn"
+  },
+  {
+   "cap": "the dollar index, strongest in 19 months",
+   "num": "103.9"
+  },
+  {
+   "cap": "the Nikkei's Friday fall",
+   "num": "-4.1%"
+  },
+  {
+   "cap": "sperm whales lost on Ninety Mile Beach",
+   "num": "24"
+  }
+ ],
+ "stories": [
+  {
+   "art": "whale",
+   "disp": 1,
+   "headline": "Burials begin after stranding kills 24 whales",
+   "kind": "dispatch",
+   "lat": -34.9,
+   "lon": 173.05,
+   "n": 1,
+   "place_label": "NINETY MILE BEACH · NEW ZEALAND",
+   "place_short": "NINETY MILE BEACH",
+   "source": "NZ Herald",
+   "text": "24 sperm whales died after stranding on Ninety Mile Beach in New Zealand's far north; burials were under way Friday."
+  },
+  {
+   "art": "palm",
+   "disp": 2,
+   "headline": "Tonga declares a drought state of emergency",
+   "kind": "dispatch",
+   "lat": -21.14,
+   "lon": -175.2,
+   "n": 2,
+   "place_label": "NUKU'ALOFA · TONGA",
+   "place_short": "NUKU'ALOFA",
+   "source": "RNZ Pacific",
+   "text": "Tonga declared a 27-day state of emergency as the El Niño drought gripping much of the Pacific worsens."
+  },
+  {
+   "art": "tower",
+   "disp": 3,
+   "headline": "Storm-felled towers leave 20,000 without power",
+   "kind": "dispatch",
+   "lat": -34.72,
+   "lon": 135.86,
+   "n": 6,
+   "place_label": "PORT LINCOLN · AUSTRALIA",
+   "place_short": "PORT LINCOLN",
+   "source": "ABC News",
+   "text": "Storms felled transmission towers on the Eyre Peninsula, cutting power to 20,000 people and closing schools."
+  },
+  {
+   "art": "cyclone",
+   "disp": 4,
+   "headline": "Cyclone Akvan makes landfall in Odisha",
+   "kind": "dispatch",
+   "lat": 19.27,
+   "lon": 84.92,
+   "n": 7,
+   "place_label": "GOPALPUR · INDIA",
+   "place_short": "GOPALPUR",
+   "source": "IMD",
+   "text": "Severe Cyclone Akvan crossed the coast near Gopalpur on Friday morning, winds gusting to 90 km/h, after 300,000 people were evacuated."
+  },
+  {
+   "art": "chart_down",
+   "disp": 5,
+   "headline": "Asian shares slide toward worst week since 2020",
+   "kind": "dispatch",
+   "lat": 35.68,
+   "lon": 139.69,
+   "n": 10,
+   "place_label": "TOKYO · JAPAN",
+   "place_short": "TOKYO",
+   "source": "Reuters",
+   "text": "Asian stocks fell for a sixth straight day, the Nikkei down 4.1% and the KOSPI 4.7% intraday, toward their worst week since 2020."
+  },
+  {
+   "art": "shield",
+   "disp": 6,
+   "headline": "Saudi defences destroy Houthi missile",
+   "kind": "dispatch",
+   "lat": 16.89,
+   "lon": 42.55,
+   "n": 17,
+   "place_label": "JAZAN · SAUDI ARABIA",
+   "place_short": "JAZAN",
+   "source": "Reuters",
+   "text": "Saudi air defences destroyed a Houthi ballistic missile over the kingdom's south and intercepted drones near Jazan and Abha."
+  },
+  {
+   "art": "skyline",
+   "disp": 7,
+   "headline": "Russia's mass missile attack on Kyiv",
+   "kind": "dispatch",
+   "lat": 50.45,
+   "lon": 30.52,
+   "n": 19,
+   "place_label": "KYIV · UKRAINE",
+   "place_short": "KYIV",
+   "source": "Kyiv Independent",
+   "text": "Russia launched Tu-160 bombers, ballistic missiles and drones at Ukraine overnight, setting fires across Kyiv from 1:25 a.m."
+  },
+  {
+   "art": "globe",
+   "disp": 8,
+   "headline": "Climate talks' final day in Antalya: no deal",
+   "kind": "dispatch",
+   "lat": 36.88,
+   "lon": 30.7,
+   "n": 20,
+   "place_label": "ANTALYA · TÜRKIYE",
+   "place_short": "ANTALYA",
+   "source": "AFP",
+   "text": "The Antalya climate talks entered their scheduled final day deeply divided; a slimmed draft dropped every reference to fossil fuels."
+  },
+  {
+   "art": "flags",
+   "disp": 9,
+   "headline": "Britain and EU set to agree trade reset",
+   "kind": "dispatch",
+   "lat": 50.85,
+   "lon": 4.35,
+   "n": 21,
+   "place_label": "BRUSSELS · BELGIUM",
+   "place_short": "BRUSSELS",
+   "source": "Reuters",
+   "text": "Britain and the EU were set to agree a reset in Brussels, easing food trade checks and capping youth mobility at 100,000 people."
+  },
+  {
+   "art": "pill",
+   "disp": 10,
+   "headline": "Pancreatic cancer pill's striking trial results",
+   "kind": "dispatch",
+   "lat": 41.39,
+   "lon": 2.17,
+   "n": 24,
+   "place_label": "BARCELONA · SPAIN",
+   "place_short": "BARCELONA",
+   "source": "BBC News",
+   "text": "Daraxonrasib plus chemo stopped pancreatic tumours growing in 90% of trial patients; in 1 in 12 they vanished."
+  },
+  {
+   "art": "chart_up",
+   "disp": 11,
+   "headline": "Anthropic closes up 17% on debut",
+   "kind": "dispatch",
+   "lat": 40.71,
+   "lon": -74.01,
+   "n": 25,
+   "pin_lat": 36,
+   "pin_lon": -79,
+   "place_label": "NEW YORK · USA",
+   "place_short": "NEW YORK",
+   "source": "Reuters",
+   "text": "Anthropic closed its first day at $97.17, up 17% from the $83 offer, after opening at $111.50 - a value near $1.3 trillion."
+  },
+  {
+   "art": "vice",
+   "disp": 12,
+   "headline": "GTA VI's first day tops $2.3 billion in estimated sales",
+   "kind": "dispatch",
+   "lat": 40.71,
+   "lon": -74.01,
+   "n": 26,
+   "pin_lat": 45,
+   "pin_lon": -68,
+   "place_label": "NEW YORK · USA",
+   "place_short": "NEW YORK",
+   "source": "BBC News",
+   "text": "GTA VI sold an estimated 24.58 million copies on day one for about $2.36 billion, nearly triple GTA V's debut - Sensor Tower estimates."
+  },
+  {
+   "disp": 13,
+   "kind": "brief",
+   "lat": -33.87,
+   "leg": 1,
+   "lon": 151.21,
+   "n": 3,
+   "place_short": "SYDNEY",
+   "source": "Reuters",
+   "text": "Man charged with terrorism offences after a Sydney raid."
+  },
+  {
+   "disp": 14,
+   "kind": "brief",
+   "lat": -33.87,
+   "leg": 1,
+   "lon": 151.21,
+   "n": 4,
+   "place_short": "SYDNEY",
+   "source": "ABC News",
+   "text": "Mark Speakman quits politics, the eighth Liberal MP to depart."
+  },
+  {
+   "disp": 15,
+   "kind": "brief",
+   "lat": -33.87,
+   "leg": 1,
+   "lon": 151.21,
+   "n": 5,
+   "place_short": "SYDNEY",
+   "source": "ABC News",
+   "text": "US sanctions Comanchero bikie figures in an Australian first."
+  },
+  {
+   "disp": 16,
+   "kind": "brief",
+   "lat": 17.61,
+   "leg": 1,
+   "lon": 121.73,
+   "n": 8,
+   "place_short": "TUGUEGARAO",
+   "source": "PAGASA",
+   "text": "Four weather systems drench the Philippines; 50-100 mm for Cagayan."
+  },
+  {
+   "disp": 17,
+   "kind": "brief",
+   "lat": 35.68,
+   "leg": 1,
+   "lon": 139.69,
+   "n": 9,
+   "place_short": "TOKYO",
+   "source": "Reuters",
+   "text": "Core inflation holds at 2.2%, above the Bank of Japan's target."
+  },
+  {
+   "disp": 18,
+   "kind": "brief",
+   "lat": 39.9,
+   "leg": 1,
+   "lon": 116.4,
+   "n": 11,
+   "place_short": "BEIJING",
+   "source": "Reuters",
+   "text": "Lending rates held an 18th month: one-year 3.00%, five-year 3.50%."
+  },
+  {
+   "disp": 19,
+   "kind": "brief",
+   "lat": 37.57,
+   "leg": 1,
+   "lon": 126.98,
+   "n": 12,
+   "place_short": "SEOUL",
+   "source": "Reuters",
+   "text": "Appeals court upholds Kakao founder Kim Beom-su's acquittal."
+  },
+  {
+   "disp": 20,
+   "kind": "brief",
+   "lat": 37.57,
+   "leg": 1,
+   "lon": 126.98,
+   "n": 13,
+   "place_short": "SEOUL",
+   "source": "Maeil",
+   "text": "98 caught cheating in the entrance exam, five with smart devices."
+  },
+  {
+   "disp": 21,
+   "kind": "brief",
+   "lat": 37.57,
+   "leg": 1,
+   "lon": 126.98,
+   "n": 14,
+   "place_short": "SEOUL",
+   "source": "Yonhap",
+   "text": "Samsung names new chip and mobile chiefs in a reshuffle."
+  },
+  {
+   "disp": 22,
+   "kind": "brief",
+   "lat": 37.57,
+   "leg": 1,
+   "lon": 126.98,
+   "n": 15,
+   "place_short": "SEOUL",
+   "source": "Seoul Economic Daily",
+   "text": "Presidential office neutral on the chief-justice impeachment push."
+  },
+  {
+   "disp": 23,
+   "kind": "brief",
+   "lat": 25.29,
+   "leg": 2,
+   "lon": 51.53,
+   "n": 16,
+   "place_short": "DOHA",
+   "source": "ABC News",
+   "text": "Australia's under-17s stun Argentina 2-0 at the World Cup."
+  },
+  {
+   "disp": 24,
+   "kind": "brief",
+   "lat": 26.57,
+   "leg": 2,
+   "lon": 56.26,
+   "n": 18,
+   "place_short": "HORMUZ",
+   "source": "Reuters",
+   "text": "Brent up 24 cents to $92.22 on Hormuz tanker reports."
+  },
+  {
+   "disp": 25,
+   "kind": "brief",
+   "lat": 48.86,
+   "leg": 2,
+   "lon": 2.35,
+   "n": 22,
+   "place_short": "PARIS",
+   "source": "AFP",
+   "text": "Young Europeans rally across seven countries over living costs."
+  },
+  {
+   "disp": 26,
+   "kind": "brief",
+   "lat": 51.51,
+   "leg": 2,
+   "lon": -0.13,
+   "n": 23,
+   "place_short": "LONDON",
+   "source": "BBC News",
+   "text": "Tens of thousands of UK fridges secured from hackers in secret."
+  },
+  {
+   "disp": 27,
+   "kind": "brief",
+   "lat": 40.71,
+   "leg": 3,
+   "lon": -74.01,
+   "n": 27,
+   "place_short": "NEW YORK",
+   "source": "Reuters",
+   "text": "Dollar index at 103.9, a 19-month high; yen at 159.50."
+  },
+  {
+   "disp": 28,
+   "kind": "brief",
+   "lat": 40.71,
+   "leg": 3,
+   "lon": -74.01,
+   "n": 28,
+   "place_short": "NEW YORK",
+   "source": "Yonhap",
+   "text": "Netflix, Amazon and Fox bid for 2030 World Cup US rights."
+  },
+  {
+   "disp": 29,
+   "kind": "brief",
+   "lat": 29.76,
+   "leg": 3,
+   "lon": -95.37,
+   "n": 29,
+   "place_short": "HOUSTON",
+   "source": "Indianapolis Star",
+   "text": "Texans rout Colts 26-3; Stroud throws three touchdown passes."
+  },
+  {
+   "disp": 30,
+   "kind": "brief",
+   "lat": 36.17,
+   "leg": 3,
+   "lon": -115.14,
+   "n": 30,
+   "place_short": "LAS VEGAS",
+   "source": "Reuters",
+   "text": "Rain washes out GP practice - no timed lap set."
+  }
+ ],
+ "weekday": "FRIDAY"
+}
